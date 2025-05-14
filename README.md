@@ -11,3 +11,5 @@ Bu proje, GitHub Actions kullanarak Java Maven projesi için otomatik derleme, t
 ## Nasıl çalışır?
 1. `pull_request` açıldığında otomatik olarak testler çalışır.
 2. JaCoCo coverage raporu PR yorumlarına eklenir.
+3. Bu satır test amaçlı eklendi.
+
